@@ -10,7 +10,8 @@
 **Email** : [beejayphil@gmail.com](mailto:beejayphil@gmail.com)
  
 **Phone-Number** : +2348182988304  
-**LinkedIn** : [https://www.linkedin.com/in/mark-bashir-323968148/](https://www.linkedin.com/in/mark-bashir-323968148/)
+**LinkedIn** : [https://www.linkedin.com/in/mark-bashir-323968148/](https://www.linkedin.com/in/mark-bashir-323968148/)  
+## Bio:
 
 
 
