@@ -2,6 +2,7 @@
 ![profile image](profile.jpg)  
 **Name** :  Mark Bashir-Ugwi    
 **Occupation** : Software Engineer  
+**State Of Resident** : Lagos, Nigeria.  
 **State Of Origin** : Edo State  
 **LGA** :   Etsakor West  
 **Address** :  18 Afolabi Aina Street Allen Avenue,Ikeja Lagos.  
