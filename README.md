@@ -36,5 +36,10 @@ April 2017-November 2017
 - Ability to communicate effectively in person, on the telephone, and in writing.  
 - Ability to work independently and as part of a team.
 
+## Hobbies:
+- Listening to music.  
+- Writing.  
+- watching basketball.  
+- Eating.
 
 
