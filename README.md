@@ -21,5 +21,16 @@ A graduate of Computer Science, who enjoys being part of, as well as leading a s
 **SSCE**  
 - College Of Education Demonstration Secondary School Warri, Delta State(DSS)
 
+## Work Experience:  
+**Android Application Developer**
+
+April 2017-November 2017  
+**Skillberry Hub** , Edo state.
+
+## Technical Skills:
+
+- Can develop native android applications.  
+-  Knows java, html, MySql, javascript, git version control.
+
 
 
