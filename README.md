@@ -32,5 +32,9 @@ April 2017-November 2017
 - Can develop native android applications.  
 -  Knows java, html, MySql, javascript, git version control.
 
+## Soft Skills: 
+- Ability to communicate effectively in person, on the telephone, and in writing.  
+- Ability to work independently and as part of a team.
+
 
 
