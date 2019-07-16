@@ -31,7 +31,7 @@ April 2017-November 2017
 ## Technical Skills:
 
 - Can develop native android applications.  
--  Knows java, html, MySql, javascript, git version control.
+-  Knows java, html, MySql, javascript,nodejs,reactjs, git version control.
 
 ## Soft Skills: 
 - Ability to communicate effectively in person, on the telephone, and in writing.  
